@@ -66,16 +66,6 @@ TDD | Secure Coding | Code Reviews
 - 🥇 Finalist – Flipkart GRiD Hackathon  
 - 🥈 Finalist – Hack36 (National-level hackathon at MNNIT)  
 - 🚀 Contributed to high-impact production system migrations at Amazon  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-Haku&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Haku&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
